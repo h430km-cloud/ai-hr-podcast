@@ -9,11 +9,12 @@
     <itunes:category text="Technology"/>
     <item>
       <title>2026-03-25 AI・HRニュース</title>
-      <description>おはようございます。ぽーです。今日は2026年3月25日、水曜日。今朝のAI・HRニュース、5本お届けします。
+      <description>おはようございます！今日は2026年3月25日、水曜日の朝です。私はぽー、あなたのAI・HRニュースアシスタントです。今朝は5本のニュースをお届けします。AI採用の光と影、企業の雇用動向、そして気になるなりすまし問題まで、一緒にチェックしていきましょう。
 
-まず1本目。大手製造業の「新卒採用削減」が鮮明になっています。三菱電機は2026年度の新卒採用を前年比2割減の750人に縮小。JR東海も3割減、パナソニックも1,300人から1,100人へと絞り込む方針を発表しました。理由はいずれも「AI活用による業務効率化」です。これまで人手不足を理...</description>
-      <pubDate>Wed, 25 Mar 2026 00:49:57 +0900</pubDate>
-      <enclosure url="https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260325.mp3" type="audio/mpeg" length="1364688"/>
+【ニュース1：採用意欲、3年ぶりに回復。中途採用が主流に】
+帝国データバンクが3月23日に発表した2026年度の雇用動向調査によると、正社員の...</description>
+      <pubDate>Wed, 25 Mar 2026 07:01:23 +0900</pubDate>
+      <enclosure url="https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260325.mp3" type="audio/mpeg" length="1514016"/>
       <guid>https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260325.mp3</guid>
     </item>
   </channel>
