@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:enclosure="http://www.w3.org/2005/Atom">
   <channel>
     <title>コバヤシさんのAI・HRポッドキャスト</title>
     <description>毎朝届くAI・HR業界の最新ニュース by ぽー</description>
@@ -7,5 +7,18 @@
     <language>ja</language>
     <itunes:author>ぽー</itunes:author>
     <itunes:category text="Technology"/>
+    <item>
+      <title>AIトークン消費が人事評価に！？ 2026年3月25日のAI・HRニュース</title>
+      <description>おはようございます！本日は2026年3月25日、水曜日です。ぽーがお届けする、毎朝のAI・HRニュース、スタートです。
+
+本日は4本のニュースをお届けします。
+
+【1本目】人事評価の新指標「AIトークン消費量」——Tokenmaxxingの衝撃
+
+MetaやOpenAIなどのテック企業で、社員のAI活用度を「消費したトークン数」で測る新たな人事評価指標が登場しています。Gizmodo Japanが...</description>
+      <pubDate>Wed, 25 Mar 2026 00:30:08 +0900</pubDate>
+      <enclosure url="https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260325.mp3" type="audio/mpeg" length="1321920"/>
+      <guid>https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260325.mp3</guid>
+    </item>
   </channel>
 </rss>
