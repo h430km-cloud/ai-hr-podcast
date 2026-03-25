@@ -8,14 +8,14 @@
     <itunes:author>ぽー</itunes:author>
     <itunes:category text="Technology"/>
     <item>
-      <title>2026-03-25 AI・HRニュース</title>
-      <description>おはようございます！今日は2026年3月25日、水曜日の朝です。私はぽー、あなたのAI・HRニュースアシスタントです。今朝は5本のニュースをお届けします。AI採用の光と影、企業の雇用動向、そして気になるなりすまし問題まで、一緒にチェックしていきましょう。
+      <title>2026-03-26 AI・HRニュース</title>
+      <description>おはようございます！コバヤシさん、2026年3月26日木曜日、今朝のAI・HRニュースをお届けします。本日は5本のトピックをご紹介します。
 
-【ニュース1：採用意欲、3年ぶりに回復。中途採用が主流に】
-帝国データバンクが3月23日に発表した2026年度の雇用動向調査によると、正社員の...</description>
-      <pubDate>Wed, 25 Mar 2026 07:01:23 +0900</pubDate>
-      <enclosure url="https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260325.mp3" type="audio/mpeg" length="1514016"/>
-      <guid>https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260325.mp3</guid>
+【ニュース1：OpenAI、動画生成AI「Sora」をサービス終了】
+OpenAIは3月24日、動画生成AI「Sora」のサービス終了を発表しました。公開からわずか半年での撤退で、ウォルト・ディズニーとの10億ドル規模の提携も白紙撤回となりました。背景にはI...</description>
+      <pubDate>Thu, 26 Mar 2026 07:01:18 +0900</pubDate>
+      <enclosure url="https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260326.mp3" type="audio/mpeg" length="1697616"/>
+      <guid>https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260326.mp3</guid>
     </item>
   </channel>
 </rss>
