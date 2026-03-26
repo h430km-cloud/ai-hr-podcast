@@ -8,14 +8,15 @@
     <itunes:author>ぽー</itunes:author>
     <itunes:category text="Technology"/>
     <item>
-      <title>2026-03-26 AI・HRニュース</title>
-      <description>おはようございます！コバヤシさん、2026年3月26日木曜日、今朝のAI・HRニュースをお届けします。本日は5本のトピックをご紹介します。
+      <title>2026-03-27 AI・HRニュース</title>
+      <description>皆さん、おはようございます。今日は2026年3月27日、金曜日の朝です。AI・HRニュースポッドキャストをお届けします。
 
-【ニュース1：OpenAI、動画生成AI「Sora」をサービス終了】
-OpenAIは3月24日、動画生成AI「Sora」のサービス終了を発表しました。公開からわずか半年での撤退で、ウォルト・ディズニーとの10億ドル規模の提携も白紙撤回となりました。背景にはI...</description>
-      <pubDate>Thu, 26 Mar 2026 07:01:18 +0900</pubDate>
-      <enclosure url="https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260326.mp3" type="audio/mpeg" length="1697616"/>
-      <guid>https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260326.mp3</guid>
+今朝は5つの重要なトピックをお伝えします。企業のAI活用が採用戦略を大きく変える動き、主要AIモデルの最新アップデート競争、そして新卒採用市場の現状についてお話しします。
+
+まず最初のニュースです。日経新聞の調査によると、AIの浸透により「若手に任せる仕事が変化している」と答...</description>
+      <pubDate>Fri, 27 Mar 2026 07:01:02 +0900</pubDate>
+      <enclosure url="https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260327.mp3" type="audio/mpeg" length="1367856"/>
+      <guid>https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260327.mp3</guid>
     </item>
   </channel>
 </rss>
