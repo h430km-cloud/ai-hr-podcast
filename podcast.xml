@@ -8,15 +8,15 @@
     <itunes:author>ぽー</itunes:author>
     <itunes:category text="Technology"/>
     <item>
-      <title>2026-03-27 AI・HRニュース</title>
-      <description>皆さん、おはようございます。今日は2026年3月27日、金曜日の朝です。AI・HRニュースポッドキャストをお届けします。
+      <title>2026-03-28 AI・HRニュース</title>
+      <description>おはようございます！コバヤシさん。今日もお疲れさまです。本日は2026年3月28日金曜日のAI・HRニュースをお届けします。
 
-今朝は5つの重要なトピックをお伝えします。企業のAI活用が採用戦略を大きく変える動き、主要AIモデルの最新アップデート競争、そして新卒採用市場の現状についてお話しします。
+今日は特に、企業のAI活用が実用段階に入った最新動向と、2026年の採用市場の予測について詳しくお話しします。さっそく今日のトピックをご紹介しましょう。
 
-まず最初のニュースです。日経新聞の調査によると、AIの浸透により「若手に任せる仕事が変化している」と答...</description>
-      <pubDate>Fri, 27 Mar 2026 07:01:02 +0900</pubDate>
-      <enclosure url="https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260327.mp3" type="audio/mpeg" length="1367856"/>
-      <guid>https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260327.mp3</guid>
+まず一つ目のニュースです。OpenAIが大規模な人員拡大に乗り出すという話です。同社は2026年末までに、現在の約4...</description>
+      <pubDate>Sat, 28 Mar 2026 07:01:02 +0900</pubDate>
+      <enclosure url="https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260328.mp3" type="audio/mpeg" length="1633104"/>
+      <guid>https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260328.mp3</guid>
     </item>
   </channel>
 </rss>
