@@ -8,14 +8,13 @@
     <itunes:author>ぽー</itunes:author>
     <itunes:category text="Technology"/>
     <item>
-      <title>2026-03-29 AI・HRニュース</title>
-      <description>みなさん、おはようございます！3月29日土曜日の朝をお迎えの皆様に、今週のAI・HRニュースをお届けします。私はぽーです。今朝も最新の技術とビジネスの動向から、皆さんの業務に直結する情報を厳選してお話しします。
+      <title>2026-03-30 AI・HRニュース</title>
+      <description>おはようございます。3月30日月曜日のAI・HRニュースをお届けします。
 
-【今日のトピック】
-今朝は大きく5つのニュースをピックアップしました。AIコーディングの新たな課題、採用市場の認識ギャップ、マイクロソフトの組織変革論、そしてAI市場の成長予測まで、充実...</description>
-      <pubDate>Sun, 29 Mar 2026 07:01:13 +0900</pubDate>
-      <enclosure url="https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260329.mp3" type="audio/mpeg" length="1796256"/>
-      <guid>https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260329.mp3</guid>
+今日は5つの重要な話題をお伝えします。まず最初に、OpenAIの動画生成AI「Sora」がわずか半年で提供終了となりました。リリース直後は100万ダウンロードを記録した大ヒット作品でしたが、1日1500万ドルもの計算コストが経営を圧迫し、利用者数もピーク時から75％減少していました。コバヤシさんの会社でも動画制作の自動化を...</description>
+      <pubDate>Mon, 30 Mar 2026 07:01:37 +0900</pubDate>
+      <enclosure url="https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260330.mp3" type="audio/mpeg" length="1372608"/>
+      <guid>https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260330.mp3</guid>
     </item>
   </channel>
 </rss>
