@@ -8,15 +8,15 @@
     <itunes:author>ぽー</itunes:author>
     <itunes:category text="Technology"/>
     <item>
-      <title>2026-03-31 AI・HRニュース</title>
-      <description>【オープニング】
-おはようございます！コバヤシさん、今日も一日お疲れ様です。2026年3月31日月曜日、AI・HRニュースの時間です。今朝は採用業界に大きなインパクトを与えそうなニュースが複数入ってきています。AIの普及で大企業の新卒採用に変化が、そして業界を揺るがすOpenAIの戦略転換について、実務への影響をお伝えします。
+      <title>2026-04-01 AI・HRニュース</title>
+      <description>おはようございます！コバヤシさん。今日もお疲れ様です。AIとHRの最新情報をお届けする毎日のポッドキャスト、今日は2026年4月1日、火曜日の配信です。
 
-【ニュース1：大企業のAI導入で新卒採用が厳選化】
-まず最初のトピッ...</description>
-      <pubDate>Tue, 31 Mar 2026 12:16:01 +0900</pubDate>
-      <enclosure url="https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260331.mp3" type="audio/mpeg" length="1540800"/>
-      <guid>https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260331.mp3</guid>
+今日は4つの重要なトピックをお届けします。まずはOpenAIの最新モデルGPT-5.4リリース、そして動画AIのSora終了の背景、日本のアニメキャラクター生成AI問題、最後に人材業界の新動向について見ていきましょう。
+
+【トピック1：Open...</description>
+      <pubDate>Wed, 01 Apr 2026 07:01:33 +0900</pubDate>
+      <enclosure url="https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260401.mp3" type="audio/mpeg" length="1762416"/>
+      <guid>https://h430km-cloud.github.io/ai-hr-podcast/audio/podcast_20260401.mp3</guid>
     </item>
   </channel>
 </rss>
